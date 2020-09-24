@@ -3,4 +3,4 @@ This repo holds the artwork for the Microsoft Graph g-raph. You are welcome to u
 
 This image can also be used in your presentations. We really appreciate you sharing the love about Microsoft Graph to your local community developers!!!!
 
-![Image of Yaktocat](g-raph.png)
+![Image of Yaktocat](g-raph-old.png)
